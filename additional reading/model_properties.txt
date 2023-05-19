@@ -24,3 +24,6 @@ __fields__
 a dictionary of the model's fields
 __config__
 the configuration class for the model, cf. model config
+
+
+add more text here
